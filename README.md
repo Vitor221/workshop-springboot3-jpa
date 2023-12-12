@@ -19,7 +19,6 @@ A aplicação consiste no gerenciamento dos produtos, usuários e pedidos. Poden
 - Maven
 
 ## Implantação em produção
-- Back end: Heroku
 - Banco de dados: PostgreSQL
 
 # Como executar o projeto
