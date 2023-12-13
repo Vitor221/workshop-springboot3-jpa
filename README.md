@@ -18,6 +18,11 @@ A aplicação consiste no gerenciamento dos produtos, usuários e pedidos. Poden
 - JPA / Hibernate
 - Maven
 
+# Projeto em produção
+- Site de hospedagem: Render
+- Banco de dados: PostgreSQL
+https://workshop-0dhz.onrender.com
+
 # Como executar o projeto
 
 ## Back end
