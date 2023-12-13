@@ -19,7 +19,7 @@ A aplicação consiste no gerenciamento dos produtos, usuários e pedidos. Poden
 - Maven
 
 # Projeto em produção
-https://workshop-0dhz.onrender.com
+URL: https://workshop-0dhz.onrender.com
 - Site de hospedagem: Render
 - Banco de dados: PostgreSQL
 
