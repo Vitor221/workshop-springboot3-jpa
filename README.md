@@ -21,10 +21,12 @@ A aplicação consiste no gerenciamento dos produtos, usuários e pedidos. Poden
 # Projeto em produção
 - Site de hospedagem: Render
 - Banco de dados: PostgreSQL
-URL /users: https://workshop-0dhz.onrender.com/users
-URL /products: https://workshop-0dhz.onrender.com/products
-URL /orders: https://workshop-0dhz.onrender.com/orders
-URL /categories: https://workshop-0dhz.onrender.com/categories
+
+##URLs
+- /users: https://workshop-0dhz.onrender.com/users
+- /products: https://workshop-0dhz.onrender.com/products
+- /orders: https://workshop-0dhz.onrender.com/orders
+- /categories: https://workshop-0dhz.onrender.com/categories
 
 # Como executar o projeto
 
