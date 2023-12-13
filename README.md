@@ -18,9 +18,6 @@ A aplicação consiste no gerenciamento dos produtos, usuários e pedidos. Poden
 - JPA / Hibernate
 - Maven
 
-## Implantação em produção
-- Banco de dados: PostgreSQL
-
 # Como executar o projeto
 
 ## Back end
