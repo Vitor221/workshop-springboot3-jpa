@@ -41,7 +41,7 @@ git clone https://github.com/Vitor221/workshop-springboot3-jpa
 $ ./mvn clean package
 
 # executar o projeto
-$ java -jar target/todolist-0.0.1-SNAPSHOT.jar
+$ java -jar target/course-0.0.1-SNAPSHOT.jar
 ```
 A API poderá ser acessada em http://localhost:8080/.
 
